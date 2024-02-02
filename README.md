@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm huntel3k</h1>
-<h3 align="center">python dev</h3>
+<h3 align="center">polish junior dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huntel3k&label=Profile%20views&color=0e75b6&style=flat" alt="huntel3k" /> </p>
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **discord: huntel3k**
 
-- ⚡ Fun fact **i play way too minecraft and valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
