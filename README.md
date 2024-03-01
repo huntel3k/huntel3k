@@ -13,7 +13,7 @@
 <h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://twitter.com/huntel3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huntel3k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/huntel3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="huntel3k" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5kplL-g6txh0oXwAeBReCA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="huntel3k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
